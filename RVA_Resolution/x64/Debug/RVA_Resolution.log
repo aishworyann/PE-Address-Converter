@@ -1,0 +1,5 @@
+﻿  source.cpp
+C:\Users\Aishworyann\source\repos\RVA_Resolution\source.cpp(79,36): warning C4244: 'argument': conversion from 'ULONGLONG' to 'uint32_t', possible loss of data
+C:\Users\Aishworyann\source\repos\RVA_Resolution\source.cpp(82,29): warning C4244: 'argument': conversion from 'ULONGLONG' to 'uint32_t', possible loss of data
+C:\Users\Aishworyann\source\repos\RVA_Resolution\source.cpp(85,28): warning C4244: 'argument': conversion from 'ULONGLONG' to 'uint32_t', possible loss of data
+  RVA_Resolution.vcxproj -> C:\Users\Aishworyann\source\repos\RVA_Resolution\x64\Debug\RVA_Resolution.exe
