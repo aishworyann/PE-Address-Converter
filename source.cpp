@@ -116,7 +116,7 @@ int main() {
     catch (const exception& e) {
         cerr << "Error: " << e.what() << endl;
     }
-
+    system("PAUSE");
     return 0;
 }
 
